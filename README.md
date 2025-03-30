@@ -1,13 +1,6 @@
-<!--# 💫 About Me:
-👋 Hi, I’m @venkatesh-git-new<br>- 👀 I’m interested in software development, web development, and building cool applications.<br>- 🌱 I’m currently learning BCA at CCACS and gaining more knowledge in coding and software engineering.<br>- 💞️ I’m looking to collaborate on open-source projects, web development, and learning new technologies.<br>- 📫 You can reach me at venkatalakshmanan13@gmail.com.<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love solving problems and creating things that can help others!<br>-->
-# About Me 👋
-Hi there! I'm a BCA student passionate about Data Science and Python development. I'm currently exploring Pandas, NumPy, Matplotlib, and other libraries to analyze data, build models, and solve real-world problems.
+# 💫 About Me:
+👋 Hi, I’m @venkatesh-git-new<br>- 👀 I’m interested in software development, web development, and building cool applications.<br>- 🌱 I’m currently learning BCA at CCACS and gaining more knowledge in coding and software engineering.<br>- 💞️ I’m looking to collaborate on open-source projects, web development, and learning new technologies.<br> 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love solving problems and creating things that can help others!<br>
 
-# 🚀 My Goal:
-I'm eager to expand my knowledge, work on exciting data science projects, and contribute to open-source. Always open to collaborations and learning from the community!
-
-# 📫 Let's Connect:
-Feel free to reach out if you want to discuss data science, coding, or collaboration ideas!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ac.rx_hl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/venkata-lakshmanan-4348691a9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:venkatalakshmanan13@gmail.com) 
